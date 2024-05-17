@@ -3,7 +3,7 @@ import mss.tools
 import time
 from pathlib import Path
 
-def take_screenshot_one_mss(
+def take_screenshot_by_mss(
     x: int,
     y: int,
     width: int,
